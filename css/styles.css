@@ -389,6 +389,10 @@ button {
 }
 
 @media (min-width: 1158px) {
+  .features-text {
+    font-weight: 400;
+  }
+
   .features-list {
     display: flex;
     gap: 24px;
